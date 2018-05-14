@@ -1,0 +1,110 @@
+[24-Mar-2018 20:17:01 UTC] PHP Warning:  include(fnavbar.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/forman/fhp.php on line 23
+[24-Mar-2018 20:17:01 UTC] PHP Warning:  include(): Failed opening 'fnavbar.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/forman/fhp.php on line 23
+[24-Mar-2018 20:17:01 UTC] PHP Fatal error:  Uncaught Error: Class 'OxfordNav' not found in /home/jguin95/public_html/oxfordcc/forman/fhp.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/forman/fhp.php on line 24
+[24-Mar-2018 20:23:28 UTC] PHP Notice:  Undefined index: ValidUser in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 6
+[24-Mar-2018 20:23:28 UTC] PHP Notice:  Undefined index: Access in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 9
+[24-Mar-2018 20:23:28 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 44
+[24-Mar-2018 20:23:28 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 44
+[24-Mar-2018 20:23:28 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/forman/fhp.php on line 28
+[24-Mar-2018 20:23:28 UTC] PHP Warning:  require_once(employee/eurm.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/forman/fhp.php on line 52
+[24-Mar-2018 20:23:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'employee/eurm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/forman/fhp.php on line 52
+[24-Mar-2018 20:24:23 UTC] PHP Warning:  require_once(employee/eurm.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/forman/fhp.php on line 52
+[24-Mar-2018 20:24:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'employee/eurm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/forman/fhp.php on line 52
+[24-Mar-2018 20:25:59 UTC] PHP Warning:  require_once(oxfordcc/employee/eurm.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/forman/fhp.php on line 49
+[24-Mar-2018 20:25:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'oxfordcc/employee/eurm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/forman/fhp.php on line 49
+[24-Mar-2018 21:50:55 UTC] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/forman/Matdt.php on line 23
+[24-Mar-2018 21:50:55 UTC] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/forman/Matdt.php on line 23
+[24-Mar-2018 21:50:55 UTC] PHP Fatal error:  Uncaught Error: Class 'OxfordNav' not found in /home/jguin95/public_html/oxfordcc/forman/Matdt.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/forman/Matdt.php on line 24
+[24-Mar-2018 21:51:01 UTC] PHP Warning:  include(navbar.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/forman/Matdt.php on line 23
+[24-Mar-2018 21:51:01 UTC] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/forman/Matdt.php on line 23
+[24-Mar-2018 21:51:01 UTC] PHP Fatal error:  Uncaught Error: Class 'OxfordNav' not found in /home/jguin95/public_html/oxfordcc/forman/Matdt.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/forman/Matdt.php on line 24
+[24-Mar-2018 21:51:39 UTC] PHP Warning:  require_once(cru100.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/forman/Matdt.php on line 49
+[24-Mar-2018 21:51:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'cru100.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/forman/Matdt.php on line 49
+[24-Mar-2018 21:56:37 UTC] PHP Warning:  require_once(cru100.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/forman/editmaterial.php on line 80
+[24-Mar-2018 21:56:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'cru100.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/forman/editmaterial.php on line 80
+[24-Mar-2018 21:58:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/addmat.php on line 77
+[24-Mar-2018 22:01:07 UTC] PHP Warning:  require_once(cru100.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/forman/editmaterial.php on line 80
+[24-Mar-2018 22:01:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'cru100.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/forman/editmaterial.php on line 80
+[24-Mar-2018 22:02:17 UTC] PHP Warning:  require_once(cru100.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/forman/editmaterial.php on line 80
+[24-Mar-2018 22:02:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'cru100.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/forman/editmaterial.php on line 80
+[24-Mar-2018 22:04:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/addmat.php on line 77
+[24-Mar-2018 22:07:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/addmat.php on line 77
+[24-Mar-2018 22:07:45 UTC] PHP Notice:  Undefined index: ValidUser in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 6
+[24-Mar-2018 22:07:45 UTC] PHP Notice:  Undefined index: Access in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 9
+[24-Mar-2018 22:07:45 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 55
+[24-Mar-2018 22:07:45 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 55
+[24-Mar-2018 22:07:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/addmat.php on line 77
+[12-Apr-2018 01:33:43 UTC] PHP Notice:  Undefined index: ValidUser in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 6
+[12-Apr-2018 01:33:43 UTC] PHP Notice:  Undefined index: Access in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 9
+[12-Apr-2018 01:33:43 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 55
+[12-Apr-2018 01:33:43 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/forman/fnavbar.php on line 55
+[12-Apr-2018 01:33:43 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/forman/fhp.php on line 28
+[12-Apr-2018 01:40:44 UTC] PHP Parse error:  syntax error, unexpected '$wage' (T_VARIABLE), expecting ',' or ';' in /home/jguin95/public_html/oxfordcc/forman/Fhandler.php on line 23
+[12-Apr-2018 02:07:43 UTC] PHP Parse error:  syntax error, unexpected '$vv' (T_VARIABLE) in /home/jguin95/public_html/oxfordcc/forman/Fhandler.php on line 22
+[12-Apr-2018 02:08:05 UTC] PHP Parse error:  syntax error, unexpected '$vv' (T_VARIABLE) in /home/jguin95/public_html/oxfordcc/forman/Fhandler.php on line 22
+[12-Apr-2018 02:08:34 UTC] PHP Parse error:  syntax error, unexpected '$vv' (T_VARIABLE) in /home/jguin95/public_html/oxfordcc/forman/Fhandler.php on line 22
+[12-Apr-2018 12:40:23 UTC] PHP Parse error:  syntax error, unexpected '$vv' (T_VARIABLE) in /home/jguin95/public_html/oxfordcc/forman/Fhandler.php on line 30
+[12-Apr-2018 12:42:27 UTC] PHP Parse error:  syntax error, unexpected '$vv' (T_VARIABLE) in /home/jguin95/public_html/oxfordcc/forman/Fhandler.php on line 25
+[12-Apr-2018 12:45:07 UTC] PHP Parse error:  syntax error, unexpected '$vv' (T_VARIABLE) in /home/jguin95/public_html/oxfordcc/forman/Fhandler.php on line 25
+[14-Apr-2018 18:35:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 150
+[14-Apr-2018 18:36:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 150
+[14-Apr-2018 18:47:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/addmat.php on line 96
+[14-Apr-2018 18:55:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:08:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:08:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:08:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:43:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:43:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[14-Apr-2018 20:43:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[14-Apr-2018 20:44:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:44:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[14-Apr-2018 20:44:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:44:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[14-Apr-2018 20:45:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:45:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[14-Apr-2018 20:55:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:55:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 15:38:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 15:41:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 15:45:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 15:53:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 15:53:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 15:54:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 15:56:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 15:56:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 15:58:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:01:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:01:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:01:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:18:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:18:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:18:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:19:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:20:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:22:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:22:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/addmat.php on line 96
+[17-Apr-2018 16:25:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:26:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[17-Apr-2018 16:26:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/addmat.php on line 96
+[20-Apr-2018 17:06:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 17:06:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[20-Apr-2018 17:08:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 17:08:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[20-Apr-2018 17:10:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 17:10:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[20-Apr-2018 18:57:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 18:57:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[20-Apr-2018 18:57:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 18:57:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[20-Apr-2018 18:57:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 18:57:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2
+[21-Apr-2018 18:49:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/forman/eurm.php on line 2

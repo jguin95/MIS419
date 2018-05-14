@@ -1,0 +1,1154 @@
+[11-Apr-2018 20:13:44 UTC] PHP Warning:  file_get_contents(20k_c1.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 54
+[11-Apr-2018 20:13:44 UTC] PHP Warning:  file_get_contents(20k_c2.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 54
+[11-Apr-2018 20:16:48 UTC] PHP Warning:  file_get_contents(20k_c1.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 54
+[11-Apr-2018 20:16:48 UTC] PHP Warning:  file_get_contents(20k_c2.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 54
+[11-Apr-2018 20:19:06 UTC] PHP Notice:  Constant FPDF_VERSION already defined in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 10
+[11-Apr-2018 20:19:06 UTC] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 12
+[11-Apr-2018 20:19:10 UTC] PHP Notice:  Constant FPDF_VERSION already defined in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 10
+[11-Apr-2018 20:19:10 UTC] PHP Fatal error:  Cannot declare class FPDF, because the name is already in use in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 12
+[11-Apr-2018 20:19:59 UTC] PHP Warning:  file_get_contents(20k_c1.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 80
+[11-Apr-2018 20:19:59 UTC] PHP Warning:  file_get_contents(20k_c2.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 80
+[11-Apr-2018 20:21:12 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 10
+[11-Apr-2018 20:21:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 12
+[11-Apr-2018 20:22:09 UTC] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 1259
+[11-Apr-2018 20:22:09 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(885): FPDF->_parsepng('logo.png')
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(108): FPDF->Image('logo.png', 10, 12, 30, 0, 'png', 'http://www.fpdf...')
+#3 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[11-Apr-2018 20:22:33 UTC] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 1259
+[11-Apr-2018 20:22:33 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(885): FPDF->_parsepng('logo.png')
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(108): FPDF->Image('logo.png', 10, 12, 30, 0, 'png', 'http://www.fpdf...')
+#3 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[11-Apr-2018 20:23:24 UTC] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 1259
+[11-Apr-2018 20:23:24 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(885): FPDF->_parsepng('logo.png')
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(108): FPDF->Image('logo.png', 10, 12, 30, 0, 'png', 'http://www.fpdf...')
+#3 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[11-Apr-2018 20:24:43 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 10
+[11-Apr-2018 20:24:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 12
+[11-Apr-2018 20:27:15 UTC] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 1259
+[11-Apr-2018 20:27:15 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(885): FPDF->_parsepng('logo.png')
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(10): FPDF->Image('logo.png', 10, 6, 30)
+#3 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(334): PDF->Header()
+#4 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(36): FPDF->AddPage()
+#5 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[11-Apr-2018 20:27:18 UTC] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 1259
+[11-Apr-2018 20:27:18 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(885): FPDF->_parsepng('logo.png')
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(10): FPDF->Image('logo.png', 10, 6, 30)
+#3 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(334): PDF->Header()
+#4 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(36): FPDF->AddPage()
+#5 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[11-Apr-2018 20:27:57 UTC] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 1259
+[11-Apr-2018 20:27:57 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(885): FPDF->_parsepng('logo.png')
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(10): FPDF->Image('logo.png', 10, 6, 30)
+#3 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(334): PDF->Header()
+#4 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(36): FPDF->AddPage()
+#5 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[11-Apr-2018 21:35:53 UTC] PHP Warning:  require_once(eurm.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 2
+[11-Apr-2018 21:35:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'eurm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 2
+[12-Apr-2018 13:33:22 UTC] PHP Warning:  require_once(/../eurm.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:33:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/../eurm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:33:58 UTC] PHP Warning:  require_once(/../eurm.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:33:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/../eurm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:34:22 UTC] PHP Warning:  require_once(/../eurm.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:34:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/../eurm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:35:37 UTC] PHP Warning:  require_once(/../eurm.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:35:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/../eurm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:39:14 UTC] PHP Warning:  require_once(/public_html/oxfordcc/employee/eurm.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:39:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/public_html/oxfordcc/employee/eurm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:39:22 UTC] PHP Warning:  require_once(/public_html/oxfordcc/employee/eurm.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:39:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/public_html/oxfordcc/employee/eurm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:39:42 UTC] PHP Warning:  require_once(/oxfordcc/employee/eurm.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:39:42 UTC] PHP Fatal error:  require_once(): Failed opening required '/oxfordcc/employee/eurm.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[12-Apr-2018 13:42:13 UTC] PHP Notice:  Undefined variable: _session in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 48
+[12-Apr-2018 13:42:13 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 48
+[12-Apr-2018 13:43:13 UTC] PHP Notice:  Undefined variable: _session in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 48
+[12-Apr-2018 13:43:13 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 48
+[12-Apr-2018 13:45:38 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[12-Apr-2018 13:46:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 53
+[12-Apr-2018 13:47:48 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 53
+[12-Apr-2018 13:53:46 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 53
+[12-Apr-2018 13:54:13 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 53
+[12-Apr-2018 13:55:59 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[12-Apr-2018 14:00:15 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[12-Apr-2018 14:02:16 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(70): FPDF->Output()
+#3 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[12-Apr-2018 14:02:50 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(70): FPDF->Output()
+#3 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[12-Apr-2018 14:06:17 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 53
+[12-Apr-2018 14:07:09 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 53
+[12-Apr-2018 14:25:45 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[12-Apr-2018 14:26:25 UTC] PHP Notice:  Undefined index: Hours.Weeknum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 68
+[12-Apr-2018 14:26:25 UTC] PHP Notice:  Undefined index: Hours.Approved_hrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 68
+[12-Apr-2018 14:26:25 UTC] PHP Notice:  Undefined index: SW.sh in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 68
+[12-Apr-2018 14:26:25 UTC] PHP Notice:  Undefined index: Hours.Weeknum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 68
+[12-Apr-2018 14:26:25 UTC] PHP Notice:  Undefined index: Hours.Approved_hrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 68
+[12-Apr-2018 14:26:25 UTC] PHP Notice:  Undefined index: SW.sh in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 68
+[12-Apr-2018 14:26:25 UTC] PHP Notice:  Undefined index: Hours.Weeknum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 68
+[12-Apr-2018 14:26:25 UTC] PHP Notice:  Undefined index: Hours.Approved_hrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 68
+[12-Apr-2018 14:26:25 UTC] PHP Notice:  Undefined index: SW.sh in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 68
+[12-Apr-2018 14:47:48 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[12-Apr-2018 14:48:34 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[12-Apr-2018 15:02:48 UTC] PHP Warning:  include(enavbar.php): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 20
+[12-Apr-2018 15:02:48 UTC] PHP Warning:  include(): Failed opening 'enavbar.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 20
+[12-Apr-2018 15:02:48 UTC] PHP Fatal error:  Uncaught Error: Class 'OxfordNav' not found in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 21
+[12-Apr-2018 15:04:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[12-Apr-2018 15:36:45 UTC] PHP Notice:  Undefined index: ValidUser in /home/jguin95/public_html/oxfordcc/employee/enavbar.php on line 6
+[12-Apr-2018 15:36:45 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/enavbar.php on line 41
+[12-Apr-2018 15:36:45 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/enavbar.php on line 41
+[12-Apr-2018 15:36:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[12-Apr-2018 15:36:45 UTC] PHP Notice:  Undefined index: empid in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[12-Apr-2018 15:36:45 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 40
+[12-Apr-2018 15:36:45 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 41
+[12-Apr-2018 15:37:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[12-Apr-2018 15:37:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[12-Apr-2018 15:38:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[12-Apr-2018 15:39:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[12-Apr-2018 15:50:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[12-Apr-2018 18:10:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 63
+[12-Apr-2018 18:10:33 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 41
+[12-Apr-2018 18:10:33 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 41
+[12-Apr-2018 18:17:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php(82): FPDF->Output()
+#3 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[12-Apr-2018 18:34:46 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 76
+[12-Apr-2018 18:42:58 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 76
+[12-Apr-2018 18:43:26 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 76
+[12-Apr-2018 18:43:50 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 76
+[12-Apr-2018 18:44:24 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 76
+[12-Apr-2018 18:45:21 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[12-Apr-2018 18:45:45 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[12-Apr-2018 18:46:42 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[12-Apr-2018 18:47:14 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[12-Apr-2018 18:47:55 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[12-Apr-2018 18:48:28 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[12-Apr-2018 18:49:20 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[12-Apr-2018 18:54:10 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[12-Apr-2018 18:54:31 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[12-Apr-2018 18:57:29 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[12-Apr-2018 18:58:33 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[13-Apr-2018 17:16:22 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 10
+[13-Apr-2018 17:16:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 12
+[13-Apr-2018 17:18:09 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 10
+[13-Apr-2018 17:18:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 12
+[13-Apr-2018 17:18:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::BasicTable() in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 49
+[13-Apr-2018 17:19:08 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 10
+[13-Apr-2018 17:19:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 12
+[13-Apr-2018 17:19:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::BasicTable() in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 49
+[13-Apr-2018 17:21:05 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 10
+[13-Apr-2018 17:21:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 12
+[13-Apr-2018 17:21:32 UTC] PHP Warning:  file(countries.txt): failed to open stream: No such file or directory in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 10
+[13-Apr-2018 17:21:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 12
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 31
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:23:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:23:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 31
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:23:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:23:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 31
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:23:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:23:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 31
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:23:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:23:58 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:23:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 31
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:36:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:36:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 31
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:36:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:36:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 31
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:36:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:36:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 31
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:36:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:36:59 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:36:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:37:21 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:37:21 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:37:21 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 31
+[13-Apr-2018 17:37:21 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:37:21 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 33
+[13-Apr-2018 17:37:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 32
+[13-Apr-2018 17:38:54 UTC] PHP Parse error:  syntax error, unexpected '$emprow' (T_VARIABLE) in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 61
+[13-Apr-2018 17:38:57 UTC] PHP Parse error:  syntax error, unexpected '$emprow' (T_VARIABLE) in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 61
+[13-Apr-2018 17:40:17 UTC] PHP Parse error:  syntax error, unexpected '$emprow' (T_VARIABLE) in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 61
+[13-Apr-2018 17:41:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 28
+[13-Apr-2018 17:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PDF' not found in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 42
+[13-Apr-2018 18:17:20 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 34
+[13-Apr-2018 18:17:20 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 34
+[13-Apr-2018 18:18:53 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 34
+[13-Apr-2018 18:18:53 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 34
+[13-Apr-2018 18:23:54 UTC] PHP Warning:  A non-numeric value encountered in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 924
+[13-Apr-2018 18:34:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php:17
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(334): PDF->Header()
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php(36): FPDF->AddPage()
+#2 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 17
+[13-Apr-2018 18:35:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 3
+[13-Apr-2018 18:36:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 4
+[13-Apr-2018 18:38:44 UTC] PHP Notice:  Undefined index: month in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 2
+[13-Apr-2018 18:38:44 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 18
+[13-Apr-2018 18:38:44 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 37
+[13-Apr-2018 18:38:44 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 37
+[13-Apr-2018 18:38:57 UTC] PHP Notice:  A non well formed numeric value encountered in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 3
+[13-Apr-2018 18:38:57 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 18
+[13-Apr-2018 18:39:34 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 18
+[13-Apr-2018 18:41:59 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 18
+[13-Apr-2018 18:42:08 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 18
+[13-Apr-2018 18:43:15 UTC] PHP Notice:  Undefined variable: name in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 19
+[13-Apr-2018 18:45:53 UTC] PHP Notice:  A non well formed numeric value encountered in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 3
+[13-Apr-2018 18:46:13 UTC] PHP Notice:  A non well formed numeric value encountered in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 3
+[13-Apr-2018 18:49:49 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 18
+[13-Apr-2018 18:50:15 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 18
+[13-Apr-2018 18:51:03 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 18
+[13-Apr-2018 18:51:03 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 19
+[13-Apr-2018 18:51:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 19
+[13-Apr-2018 18:51:42 UTC] PHP Notice:  Undefined index: month in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 2
+[13-Apr-2018 18:51:42 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 38
+[13-Apr-2018 18:51:42 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 38
+[13-Apr-2018 18:52:24 UTC] PHP Notice:  Undefined index: month in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 2
+[13-Apr-2018 18:52:24 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 38
+[13-Apr-2018 18:52:24 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 38
+[13-Apr-2018 18:53:21 UTC] PHP Notice:  Undefined index: month in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 2
+[13-Apr-2018 18:53:21 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 38
+[13-Apr-2018 18:53:21 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 38
+[13-Apr-2018 18:53:46 UTC] PHP Notice:  Undefined index: month in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 2
+[13-Apr-2018 18:53:46 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 38
+[13-Apr-2018 18:53:46 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 38
+[13-Apr-2018 18:54:39 UTC] PHP Notice:  Undefined index: month in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 2
+[13-Apr-2018 18:54:39 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 35
+[13-Apr-2018 18:55:31 UTC] PHP Notice:  Undefined index: month in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 2
+[13-Apr-2018 18:55:31 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 36
+[13-Apr-2018 18:55:56 UTC] PHP Notice:  Undefined index: month in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 2
+[13-Apr-2018 18:55:56 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 39
+[13-Apr-2018 18:55:56 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 39
+[13-Apr-2018 19:59:56 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 88
+[13-Apr-2018 20:00:45 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 88
+[13-Apr-2018 20:01:57 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 88
+[13-Apr-2018 20:02:53 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 88
+[13-Apr-2018 20:03:59 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 88
+[13-Apr-2018 20:04:47 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 88
+[13-Apr-2018 20:05:40 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 88
+[13-Apr-2018 20:06:40 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 89
+[13-Apr-2018 20:07:15 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 90
+[13-Apr-2018 20:08:25 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 100
+[13-Apr-2018 20:09:00 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 100
+[13-Apr-2018 20:13:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[13-Apr-2018 20:13:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[13-Apr-2018 20:17:29 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 100
+[13-Apr-2018 20:20:11 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 90
+[13-Apr-2018 20:20:32 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 100
+[13-Apr-2018 20:26:14 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 90
+[13-Apr-2018 20:27:02 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 90
+[13-Apr-2018 20:31:11 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 90
+[13-Apr-2018 20:32:08 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 90
+[13-Apr-2018 20:49:03 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[13-Apr-2018 20:49:25 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 77
+[13-Apr-2018 20:51:37 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 40
+[13-Apr-2018 20:51:37 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 94
+[13-Apr-2018 20:51:37 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 109
+[13-Apr-2018 20:52:45 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 40
+[13-Apr-2018 20:52:45 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 94
+[13-Apr-2018 20:54:02 UTC] PHP Notice:  Undefined variable: monthName in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 41
+[13-Apr-2018 20:54:02 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 20:55:45 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 20:56:05 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 20:57:30 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 20:57:58 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 21:00:50 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 21:01:52 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 21:07:01 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 21:08:22 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 21:09:02 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 21:09:27 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 21:09:59 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 21:10:09 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 21:33:27 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 95
+[13-Apr-2018 21:34:29 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 44
+[13-Apr-2018 21:34:29 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 44
+[13-Apr-2018 21:37:04 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[13-Apr-2018 21:37:04 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[13-Apr-2018 21:37:04 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 102
+[13-Apr-2018 21:37:13 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[13-Apr-2018 21:37:13 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[13-Apr-2018 21:37:13 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 102
+[13-Apr-2018 21:40:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[13-Apr-2018 21:40:26 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 7
+[13-Apr-2018 21:40:26 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 50
+[13-Apr-2018 21:40:26 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 50
+[13-Apr-2018 21:41:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[13-Apr-2018 21:41:01 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 50
+[13-Apr-2018 21:41:01 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 50
+[13-Apr-2018 21:41:01 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 106
+[13-Apr-2018 21:42:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[13-Apr-2018 21:42:27 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 50
+[13-Apr-2018 21:42:27 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 50
+[13-Apr-2018 21:42:27 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 106
+[13-Apr-2018 21:43:06 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[13-Apr-2018 21:43:06 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[13-Apr-2018 21:43:06 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 102
+[13-Apr-2018 21:43:15 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[13-Apr-2018 21:43:15 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 102
+[13-Apr-2018 21:43:27 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[13-Apr-2018 21:43:27 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[13-Apr-2018 21:43:27 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 102
+[13-Apr-2018 21:45:44 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[13-Apr-2018 21:45:44 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[13-Apr-2018 21:45:44 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 102
+[13-Apr-2018 21:50:18 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[13-Apr-2018 21:50:18 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 102
+[13-Apr-2018 23:03:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[13-Apr-2018 23:03:59 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[13-Apr-2018 23:04:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[13-Apr-2018 23:27:13 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[13-Apr-2018 23:28:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[13-Apr-2018 23:28:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[13-Apr-2018 23:28:34 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 79
+[13-Apr-2018 23:28:34 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:29:12 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 79
+[13-Apr-2018 23:29:12 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:29:12 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:29:12 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:29:12 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:30:02 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 79
+[13-Apr-2018 23:30:02 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:30:02 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:30:02 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:30:02 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:33:24 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:33:24 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[13-Apr-2018 23:33:24 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[13-Apr-2018 23:33:24 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[13-Apr-2018 23:33:24 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[13-Apr-2018 23:34:56 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:34:56 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[13-Apr-2018 23:35:55 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[13-Apr-2018 23:35:55 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[13-Apr-2018 23:41:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 76
+[13-Apr-2018 23:43:35 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 43
+[13-Apr-2018 23:43:35 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 43
+[13-Apr-2018 23:43:38 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 43
+[13-Apr-2018 23:43:38 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 43
+[13-Apr-2018 23:43:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[13-Apr-2018 23:43:41 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 80
+[13-Apr-2018 23:43:41 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[13-Apr-2018 23:43:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[13-Apr-2018 23:44:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[13-Apr-2018 23:44:09 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 80
+[13-Apr-2018 23:44:09 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[13-Apr-2018 23:44:09 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[13-Apr-2018 23:44:09 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[13-Apr-2018 23:44:09 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[13-Apr-2018 23:44:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[13-Apr-2018 23:46:15 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 90
+[13-Apr-2018 23:46:53 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 90
+[13-Apr-2018 23:53:20 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[13-Apr-2018 23:53:20 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 102
+[14-Apr-2018 00:19:26 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 90
+[14-Apr-2018 00:19:57 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 90
+[14-Apr-2018 00:20:08 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 90
+[14-Apr-2018 00:23:43 UTC] PHP Parse error:  syntax error, unexpected 'substr' (T_STRING) in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 80
+[14-Apr-2018 00:24:12 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ')' in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 80
+[14-Apr-2018 00:25:01 UTC] PHP Parse error:  syntax error, unexpected '$pdf' (T_VARIABLE) in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 81
+[14-Apr-2018 00:27:09 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 00:27:43 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 00:28:58 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 00:29:16 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 00:29:34 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 00:30:55 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 00:31:07 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 00:54:37 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 00:58:17 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 00:58:28 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 01:01:41 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 01:01:49 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 01:04:01 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 15:07:53 UTC] PHP Warning:  mktime() expects parameter 4 to be integer, string given in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 3
+[14-Apr-2018 15:08:12 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 15:20:57 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[14-Apr-2018 15:20:57 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[14-Apr-2018 15:21:31 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 15:22:10 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[14-Apr-2018 15:32:30 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[14-Apr-2018 15:32:30 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 102
+[14-Apr-2018 15:35:28 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[14-Apr-2018 15:35:28 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[14-Apr-2018 15:35:54 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 15:37:44 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[14-Apr-2018 15:59:22 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 39
+[14-Apr-2018 15:59:22 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 39
+[14-Apr-2018 15:59:22 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 91
+[14-Apr-2018 15:59:22 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 92
+[14-Apr-2018 16:02:53 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 39
+[14-Apr-2018 16:02:53 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 39
+[14-Apr-2018 16:02:53 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 91
+[14-Apr-2018 16:02:53 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 92
+[14-Apr-2018 16:13:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 16:14:00 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 80
+[14-Apr-2018 16:14:00 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 16:14:00 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 16:14:00 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 16:14:00 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 16:14:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 16:33:36 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:33:36 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:37:11 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:37:11 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:42:54 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:42:54 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:42:54 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:42:54 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:44:00 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:44:00 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:44:00 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:44:00 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:44:27 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:44:27 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:44:27 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:44:27 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:45:01 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:45:01 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:45:01 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:45:01 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:49:08 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:49:08 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:49:08 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:49:08 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:52:37 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:52:37 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:52:37 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:52:37 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:54:34 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:54:34 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:54:34 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:54:34 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:55:16 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:55:16 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:55:16 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:55:16 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:55:39 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:55:39 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:55:39 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:55:39 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:55:58 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:55:58 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:55:58 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:55:58 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:56:51 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:56:51 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:56:51 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:56:51 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:57:28 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:57:28 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:57:28 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:57:28 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:58:30 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:58:30 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:58:30 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:58:30 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 16:59:15 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 16:59:15 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 16:59:15 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 16:59:15 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 17:00:11 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 17:00:11 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 17:00:11 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 17:00:11 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 17:00:36 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 17:00:36 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 17:00:36 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 17:00:36 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 17:01:35 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 17:01:35 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 17:01:35 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 17:01:35 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 17:01:52 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 17:01:52 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 17:01:52 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 17:01:52 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 17:05:36 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 17:05:36 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 17:05:36 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 17:05:36 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 17:06:01 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[14-Apr-2018 17:08:48 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[14-Apr-2018 17:08:48 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 17:08:48 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[14-Apr-2018 17:08:48 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[14-Apr-2018 17:09:38 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[14-Apr-2018 17:09:38 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 17:09:38 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[14-Apr-2018 17:09:38 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[14-Apr-2018 17:10:15 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[14-Apr-2018 17:10:15 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[14-Apr-2018 17:10:31 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[14-Apr-2018 17:10:31 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 17:10:31 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[14-Apr-2018 17:10:31 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[14-Apr-2018 17:11:00 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[14-Apr-2018 17:11:00 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 17:11:00 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[14-Apr-2018 17:11:00 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[14-Apr-2018 17:11:42 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[14-Apr-2018 17:11:42 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[14-Apr-2018 17:12:47 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[14-Apr-2018 17:12:47 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[14-Apr-2018 17:13:20 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[14-Apr-2018 17:13:21 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[14-Apr-2018 17:13:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 17:13:43 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 80
+[14-Apr-2018 17:13:43 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:13:43 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:13:43 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:13:43 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:13:43 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:25:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 17:26:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 17:26:48 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 80
+[14-Apr-2018 17:26:48 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:26:48 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:26:48 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:26:48 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:26:48 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:29:20 UTC] PHP Parse error:  syntax error, unexpected '$rows' (T_VARIABLE) in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:29:35 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 43
+[14-Apr-2018 17:29:35 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 43
+[14-Apr-2018 17:29:35 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 96
+[14-Apr-2018 17:29:35 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 97
+[14-Apr-2018 17:29:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 17:29:40 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 80
+[14-Apr-2018 17:29:40 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[14-Apr-2018 17:29:40 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:29:40 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:29:40 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:29:40 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:29:40 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:31:00 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[14-Apr-2018 17:31:00 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:31:00 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:31:00 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:31:00 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:31:00 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:31:00 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:31:22 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[14-Apr-2018 17:31:22 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:31:22 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:31:22 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:31:22 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:31:22 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:31:22 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:32:29 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 81
+[14-Apr-2018 17:32:29 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:32:29 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:32:29 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:32:29 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:32:29 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:32:29 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:34:03 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:34:03 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:34:03 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:34:03 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:34:03 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:34:03 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:34:03 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:34:36 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:34:36 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:34:36 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:34:36 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:34:36 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:34:36 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:34:36 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:35:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 75
+[14-Apr-2018 17:35:49 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 43
+[14-Apr-2018 17:35:49 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 43
+[14-Apr-2018 17:35:49 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 99
+[14-Apr-2018 17:35:49 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 100
+[14-Apr-2018 17:35:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 17:35:54 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:35:54 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:35:54 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:35:54 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:35:54 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:35:54 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:35:54 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:36:49 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:36:49 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:36:49 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:36:49 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:36:49 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:36:49 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:36:49 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:37:14 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:37:14 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:37:14 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:37:14 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:37:14 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:37:14 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:37:14 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:38:18 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:38:18 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:38:18 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:38:18 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:38:18 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:38:18 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:38:18 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:39:35 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:39:35 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:39:35 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:39:35 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:39:35 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:39:35 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:39:35 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:40:24 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:40:24 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:40:24 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:40:24 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:40:24 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:40:24 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:40:24 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:40:50 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:40:50 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:40:50 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:40:50 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:40:50 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:40:50 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:40:50 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:41:12 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:41:12 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:41:12 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:41:12 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:41:12 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:41:12 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:41:12 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:44:17 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:44:17 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:44:17 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:44:17 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:44:17 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:44:17 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:44:17 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:45:18 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:45:18 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:45:18 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:45:18 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:45:18 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:45:18 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:45:18 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:46:16 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:46:16 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:46:16 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:46:16 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:46:16 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:46:16 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:46:16 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:47:17 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:47:17 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:47:17 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:47:17 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:47:17 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:47:17 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:47:17 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:48:09 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 82
+[14-Apr-2018 17:48:09 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:48:09 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:48:09 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:48:09 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:48:09 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:48:09 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:50:04 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 83
+[14-Apr-2018 17:50:04 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:50:04 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 86
+[14-Apr-2018 17:50:04 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 86
+[14-Apr-2018 17:50:04 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 86
+[14-Apr-2018 17:50:04 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 86
+[14-Apr-2018 17:50:04 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 86
+[14-Apr-2018 17:51:25 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 17:51:25 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 17:51:25 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 17:51:25 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 17:51:25 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 17:51:25 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 17:51:25 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 17:52:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 18:22:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 18:22:08 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 18:22:08 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 18:22:08 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 18:22:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 18:27:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 18:36:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 18:39:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 18:47:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 39
+[14-Apr-2018 18:50:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 18:50:15 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 18:50:15 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 18:50:15 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 18:50:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 18:51:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 18:55:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 18:55:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 18:55:38 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 18:55:38 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 18:55:38 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 18:55:38 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 18:55:38 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 18:55:38 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 18:55:38 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 18:55:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 18:55:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 19:33:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 19:34:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 19:34:07 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 101
+[14-Apr-2018 19:34:07 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 102
+[14-Apr-2018 19:34:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 19:38:29 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[14-Apr-2018 19:38:29 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[14-Apr-2018 19:39:54 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[14-Apr-2018 19:39:54 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[14-Apr-2018 19:41:06 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 19:41:06 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 19:41:06 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 19:41:06 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 19:41:22 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[14-Apr-2018 19:41:22 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 19:41:22 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[14-Apr-2018 19:41:22 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[14-Apr-2018 19:46:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 20:06:49 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[14-Apr-2018 20:06:49 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[14-Apr-2018 20:07:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 20:07:44 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 20:07:44 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 20:07:44 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 20:07:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 20:08:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 20:08:49 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 20:08:49 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 20:08:49 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 20:09:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 20:17:26 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[14-Apr-2018 20:17:26 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[14-Apr-2018 20:17:26 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[14-Apr-2018 20:17:55 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[14-Apr-2018 20:17:55 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 20:17:55 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[14-Apr-2018 20:17:55 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[14-Apr-2018 20:45:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 58
+[14-Apr-2018 20:46:51 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 44
+[14-Apr-2018 20:47:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:47:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 52
+[14-Apr-2018 20:47:17 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[14-Apr-2018 20:47:17 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[14-Apr-2018 20:47:17 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[14-Apr-2018 20:47:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:47:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 52
+[14-Apr-2018 20:47:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[14-Apr-2018 20:47:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 52
+[14-Apr-2018 20:48:45 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[14-Apr-2018 20:48:45 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[14-Apr-2018 20:50:43 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[14-Apr-2018 20:50:43 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[14-Apr-2018 20:50:43 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[14-Apr-2018 20:50:43 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[14-Apr-2018 20:51:10 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[14-Apr-2018 20:51:10 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[14-Apr-2018 20:51:10 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[14-Apr-2018 20:51:10 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[14-Apr-2018 20:51:32 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[14-Apr-2018 20:51:32 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[17-Apr-2018 15:27:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 52
+[17-Apr-2018 15:27:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 52
+[17-Apr-2018 15:29:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[17-Apr-2018 15:31:33 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[17-Apr-2018 15:31:33 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[17-Apr-2018 15:31:33 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[17-Apr-2018 15:31:33 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[17-Apr-2018 15:37:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[17-Apr-2018 15:59:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[17-Apr-2018 15:59:09 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[17-Apr-2018 15:59:09 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[17-Apr-2018 15:59:09 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[17-Apr-2018 15:59:09 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[17-Apr-2018 15:59:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[17-Apr-2018 16:01:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[17-Apr-2018 16:01:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[17-Apr-2018 16:26:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[17-Apr-2018 16:26:36 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[17-Apr-2018 16:26:36 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[17-Apr-2018 16:26:36 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[17-Apr-2018 16:26:36 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[17-Apr-2018 16:26:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[17-Apr-2018 16:28:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[17-Apr-2018 16:28:29 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[17-Apr-2018 16:28:29 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[17-Apr-2018 16:28:29 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[17-Apr-2018 16:28:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[19-Apr-2018 21:05:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[19-Apr-2018 21:06:54 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[19-Apr-2018 21:06:54 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[19-Apr-2018 21:06:54 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[19-Apr-2018 21:06:54 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[19-Apr-2018 21:07:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[19-Apr-2018 21:09:27 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[19-Apr-2018 21:09:27 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[19-Apr-2018 21:12:26 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[19-Apr-2018 21:12:26 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[19-Apr-2018 21:12:35 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[19-Apr-2018 21:12:35 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[19-Apr-2018 21:12:44 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[19-Apr-2018 21:12:44 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[19-Apr-2018 21:12:44 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[19-Apr-2018 21:12:44 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[19-Apr-2018 21:13:31 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[19-Apr-2018 21:13:31 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[19-Apr-2018 22:02:38 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[19-Apr-2018 22:02:38 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[19-Apr-2018 22:02:38 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[19-Apr-2018 22:02:38 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[19-Apr-2018 22:07:11 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[19-Apr-2018 22:07:11 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[19-Apr-2018 22:07:11 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[19-Apr-2018 22:07:11 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[20-Apr-2018 13:31:02 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[20-Apr-2018 13:31:02 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[20-Apr-2018 13:31:02 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[20-Apr-2018 13:31:02 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[20-Apr-2018 13:46:47 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 80
+[20-Apr-2018 13:48:31 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 80
+[20-Apr-2018 13:49:34 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 80
+[20-Apr-2018 13:55:04 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[20-Apr-2018 13:55:04 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[20-Apr-2018 13:55:04 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[20-Apr-2018 13:55:04 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[20-Apr-2018 13:55:15 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[20-Apr-2018 13:55:15 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[20-Apr-2018 13:55:15 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[20-Apr-2018 13:55:15 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[20-Apr-2018 13:55:24 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[20-Apr-2018 13:55:24 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[20-Apr-2018 13:55:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 13:55:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[20-Apr-2018 13:55:37 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[20-Apr-2018 13:55:37 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[20-Apr-2018 13:55:37 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 13:55:37 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 13:55:37 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 13:55:37 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 13:55:37 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 13:55:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 13:55:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[20-Apr-2018 13:58:15 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 83
+[20-Apr-2018 13:59:11 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 83
+[20-Apr-2018 13:59:42 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 83
+[20-Apr-2018 14:00:18 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 84
+[20-Apr-2018 14:00:40 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 84
+[20-Apr-2018 14:21:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 14:21:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[20-Apr-2018 14:21:48 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[20-Apr-2018 14:21:48 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[20-Apr-2018 14:21:48 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 14:21:48 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 14:21:48 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 14:21:48 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 14:21:48 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 14:22:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 14:22:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[20-Apr-2018 14:22:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 14:22:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[20-Apr-2018 14:40:59 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 101
+[20-Apr-2018 14:40:59 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 102
+[20-Apr-2018 14:40:59 UTC] PHP Notice:  Undefined variable: rows in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 106
+[20-Apr-2018 14:40:59 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php(113): FPDF->Output()
+#3 {main}
+  thrown in /home/jguin95/public_html/oxfordcc/employee/fpdf/fpdf.php on line 271
+[20-Apr-2018 14:41:45 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 84
+[20-Apr-2018 14:41:45 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 85
+[20-Apr-2018 14:42:12 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 84
+[20-Apr-2018 14:42:12 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 85
+[20-Apr-2018 14:44:02 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 84
+[20-Apr-2018 14:44:02 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 85
+[20-Apr-2018 14:46:57 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 14:46:57 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 14:47:51 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 14:47:51 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 14:48:17 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 14:48:17 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 14:49:19 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 14:49:19 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 14:49:59 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 14:49:59 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 14:50:45 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 14:50:45 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 14:50:53 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 14:50:53 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 14:51:16 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 106
+[20-Apr-2018 14:51:16 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 107
+[20-Apr-2018 14:53:41 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 14:53:41 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 14:54:34 UTC] PHP Notice:  Undefined index: week in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 2
+[20-Apr-2018 14:54:34 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 42
+[20-Apr-2018 14:54:34 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 42
+[20-Apr-2018 14:54:34 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 106
+[20-Apr-2018 14:54:34 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 107
+[20-Apr-2018 14:55:26 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 14:55:26 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 15:00:07 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[20-Apr-2018 15:00:07 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[20-Apr-2018 15:00:07 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[20-Apr-2018 15:00:07 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[20-Apr-2018 15:02:58 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 84
+[20-Apr-2018 15:09:54 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 15:09:54 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 15:12:53 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[20-Apr-2018 15:12:53 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[20-Apr-2018 15:12:53 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[20-Apr-2018 15:12:53 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[20-Apr-2018 15:14:26 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[20-Apr-2018 15:14:26 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[20-Apr-2018 15:14:26 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[20-Apr-2018 15:14:26 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[20-Apr-2018 15:15:14 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[20-Apr-2018 15:15:14 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[20-Apr-2018 15:15:14 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[20-Apr-2018 15:15:14 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[20-Apr-2018 15:15:31 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[20-Apr-2018 15:15:31 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[20-Apr-2018 15:15:31 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[20-Apr-2018 15:15:31 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[20-Apr-2018 16:19:50 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[20-Apr-2018 16:19:50 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[20-Apr-2018 16:19:50 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[20-Apr-2018 16:49:09 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[20-Apr-2018 16:49:09 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[20-Apr-2018 16:49:09 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[20-Apr-2018 16:49:09 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[20-Apr-2018 17:12:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 17:12:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[20-Apr-2018 17:14:02 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[20-Apr-2018 17:14:02 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[20-Apr-2018 17:14:02 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:14:02 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:14:02 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:14:02 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:14:02 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:14:02 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:15:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 17:15:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[20-Apr-2018 17:22:41 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[20-Apr-2018 17:22:41 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[20-Apr-2018 17:22:41 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:22:41 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:22:41 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:22:41 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:22:41 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:22:41 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 17:23:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 17:23:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[20-Apr-2018 17:27:17 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[20-Apr-2018 17:27:17 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[20-Apr-2018 17:28:47 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[20-Apr-2018 17:28:47 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[20-Apr-2018 17:33:28 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 84
+[20-Apr-2018 17:34:47 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[20-Apr-2018 17:34:47 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[20-Apr-2018 17:34:47 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[20-Apr-2018 17:34:47 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[20-Apr-2018 17:35:04 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[20-Apr-2018 17:35:04 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[20-Apr-2018 17:35:04 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[20-Apr-2018 17:35:04 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[20-Apr-2018 17:35:14 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 106
+[20-Apr-2018 17:35:14 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 107
+[20-Apr-2018 17:35:28 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 17:35:28 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 17:44:20 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[20-Apr-2018 17:44:20 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[20-Apr-2018 17:44:20 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[20-Apr-2018 17:44:20 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[20-Apr-2018 17:47:47 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[20-Apr-2018 17:47:47 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[20-Apr-2018 17:47:47 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[20-Apr-2018 17:47:47 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[20-Apr-2018 17:49:04 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 84
+[20-Apr-2018 17:50:12 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[20-Apr-2018 17:50:12 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[20-Apr-2018 17:51:04 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[20-Apr-2018 17:51:04 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[20-Apr-2018 18:58:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 18:58:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[20-Apr-2018 18:58:51 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[20-Apr-2018 18:58:51 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[20-Apr-2018 18:58:51 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 18:58:51 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[20-Apr-2018 18:59:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/navbar.php on line 5
+[20-Apr-2018 18:59:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[20-Apr-2018 18:59:50 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[20-Apr-2018 18:59:50 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[20-Apr-2018 18:59:57 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[20-Apr-2018 19:00:03 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[20-Apr-2018 19:00:03 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[20-Apr-2018 19:00:15 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 84
+[20-Apr-2018 19:00:30 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 88
+[20-Apr-2018 19:00:30 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/payrollpdf.php on line 89
+[20-Apr-2018 19:00:41 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 91
+[20-Apr-2018 19:00:41 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 92
+[20-Apr-2018 19:00:41 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 93
+[20-Apr-2018 19:00:41 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/monthpdf.php on line 94
+[20-Apr-2018 19:00:57 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[20-Apr-2018 19:00:57 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[20-Apr-2018 19:00:57 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[20-Apr-2018 19:00:57 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[21-Apr-2018 18:46:26 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[21-Apr-2018 18:46:26 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[21-Apr-2018 18:46:26 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[21-Apr-2018 18:47:09 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 95
+[21-Apr-2018 18:47:09 UTC] PHP Notice:  Undefined variable: twages in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 96
+[21-Apr-2018 18:47:09 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 97
+[21-Apr-2018 18:47:09 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/Yearly_Report.php on line 98
+[21-Apr-2018 18:48:25 UTC] PHP Notice:  Undefined variable: tmat in /home/jguin95/public_html/oxfordcc/employee/fpdf/supplierpdf.php on line 84
+[21-Apr-2018 18:49:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[21-Apr-2018 18:49:32 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 84
+[21-Apr-2018 18:49:32 UTC] PHP Notice:  Undefined variable: thrs in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 85
+[21-Apr-2018 18:49:32 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[21-Apr-2018 18:49:32 UTC] PHP Notice:  Undefined index: job in /home/jguin95/public_html/oxfordcc/employee/fpdf/AJpdf.php on line 87
+[21-Apr-2018 18:49:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/jguin95/public_html/oxfordcc/employee/fpdf/econfirm.php on line 53
+[21-Apr-2018 19:24:57 UTC] PHP Notice:  Undefined index: fname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[21-Apr-2018 19:24:57 UTC] PHP Notice:  Undefined index: lname in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 46
+[21-Apr-2018 19:24:57 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
+[22-Apr-2018 18:58:49 UTC] PHP Notice:  Undefined index: empnum in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 3
+[22-Apr-2018 18:58:49 UTC] PHP Notice:  Undefined variable: total in /home/jguin95/public_html/oxfordcc/employee/fpdf/ehrspdf.php on line 104
